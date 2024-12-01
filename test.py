@@ -7,3 +7,5 @@ ties = ask2 * 1
 total = win + ties
 
 print(f"You have {total} points")
+
+print("Hello World")
